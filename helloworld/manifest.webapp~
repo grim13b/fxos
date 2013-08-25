@@ -1,0 +1,12 @@
+{
+	"name":"FxOS Hello Demo",
+	"developer":{
+		"name":"grim3lt.org",
+		"url":"http://devlog.grim3lt.org"
+	},
+	"description":"made test application for newbie.",
+	"icons":{
+		"128":"/icon/icon.png"
+	},
+	"launch_path":"index.html"
+}
